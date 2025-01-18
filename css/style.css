@@ -1,0 +1,18 @@
+/* Definindo o estilo para a imagem */
+img {
+    max-width: 100%; /* Responsividade */
+    height: auto;    /* Mantém a proporção */
+}
+
+/* Estilo específico para a seção do produto */
+.produto img {
+    width: 400px; /* Tamanho fixo para a imagem do produto */
+    height: 400px; /* Mantém a proporção */
+    object-fit: cover; /* Faz a imagem preencher o espaço sem distorcer */
+}
+
+/* Estilo do cabeçalho */
+header img {
+    width: 300px;  /* Tamanho do logo */
+    height: 100px;
+}

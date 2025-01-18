@@ -1,0 +1,19 @@
+meu-site/
+│
+├── index.html             # Página principal (home)
+├── produtos.html          # Página de produtos
+├── contato.html           # Página de contato
+│
+├── css/
+│   ├── style.css          # Estilos personalizados (CSS)
+│
+├── images/                # Imagens do site
+│   ├── logo.png           # Logo
+│   ├── produto1.jpg       # Imagem de produto
+│   ├── produto2.jpg       # Imagem de produto
+│
+├── js/
+│   ├── script.js          # Scripts personalizados (JavaScript)
+│
+└── fonts/                 # Fontes customizadas, se necessário
+    ├── -------------------------------------------
